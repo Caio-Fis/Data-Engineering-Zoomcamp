@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Data (never commit)
+**/data/**
+*.parquet
+*.csv
+
+# Editors/OS
+.DS_Store
+.vscode/
+.idea/
+
