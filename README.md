@@ -4,3 +4,4 @@ Repository with solutions for Data Engineering Zoomcamp tasks. Link of zoomcamp:
 ## Homeworks
 
 - [Homework 01 — Docker & SQL](./homework-01/README.md)
+- [Homework 02 — Workflow Orchestration](./homework-02/README.md)
